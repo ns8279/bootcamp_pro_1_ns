@@ -20,7 +20,7 @@ Made with <3 by Nirupama Sundararaman
 © 2019 Horiseon Social Solution Services, Inc.
 
 # Main Page
-# ![Alt text](./assets/images/one.jpg?raw=true "Title")
+# ![Alt text](./assets/images/digital-marketing-meeting.jpg?raw=true "Title")
 
 
 
