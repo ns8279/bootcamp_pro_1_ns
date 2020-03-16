@@ -20,7 +20,7 @@ Made with <3 by Nirupama Sundararaman
 © 2019 Horiseon Social Solution Services, Inc.
 
 <div align="center">
-    <img src="./assets/images/read_me.png" width="400px"</img> 
+    <img src="./assets/images/one.png" width="400px"</img> 
 </div>
 
 
