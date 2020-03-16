@@ -19,7 +19,8 @@ Made with <3 by Nirupama Sundararaman
 # copyright
 © 2019 Horiseon Social Solution Services, Inc.
 
-# # ![Alt text](./assets/images/one.jpg?raw=true "Title")
+# Main Page
+# ![Alt text](./assets/images/one.jpg?raw=true "Title")
 
 
 
